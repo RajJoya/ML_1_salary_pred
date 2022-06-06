@@ -1,1 +1,2 @@
-# ml_dl
+# Machine Learning Project
+Given adult data, salary prediction
